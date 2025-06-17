@@ -1,0 +1,834 @@
+[
+  {
+    "team": "CHA",
+    "opponent": "TOR",
+    "is_home": false,
+    "date": "2025-04-09",
+    "starters": [
+      "DaQuan Jeffries",
+      "Tidjane Sala\u00fcn",
+      "Jusuf Nurki\u0107",
+      "Nick Smith Jr.",
+      "KJ Simpson"
+    ]
+  },
+  {
+    "team": "BOS",
+    "opponent": "ORL",
+    "is_home": false,
+    "date": "2025-04-09",
+    "starters": [
+      "Baylor Scheierman",
+      "Torrey Craig",
+      "Luke Kornet",
+      "Sam Hauser",
+      "Payton Pritchard"
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "WAS",
+    "is_home": false,
+    "date": "2025-04-09",
+    "starters": [
+      "Lonnie Walker IV",
+      "Marcus Bagley",
+      "Adem Bona",
+      "Quentin Grimes",
+      "Jared Butler"
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "PHI",
+    "is_home": true,
+    "date": "2025-04-09",
+    "starters": [
+      "Kyshawn George",
+      "Justin Champagnie",
+      "Alex Sarr",
+      "AJ Johnson",
+      "Bub Carrington"
+    ]
+  },
+  {
+    "team": "CHI",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2025-04-08",
+    "starters": [
+      "Patrick Williams",
+      "Matas Buzelis",
+      "Jalen Smith",
+      "Dalen Terry",
+      "Jevon Carter"
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "BKN",
+    "is_home": false,
+    "date": "2025-04-08",
+    "starters": [
+      "Bruce Brown",
+      "Kelly Olynyk",
+      "Yves Missi",
+      "Antonio Reeves",
+      "Jose Alvarado"
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "MIA",
+    "is_home": false,
+    "date": "2025-04-07",
+    "starters": [
+      "Lonnie Walker IV",
+      "Marcus Bagley",
+      "Adem Bona",
+      "Jared Butler",
+      "Quentin Grimes"
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "MIL",
+    "is_home": true,
+    "date": "2025-04-06",
+    "starters": [
+      "Bruce Brown",
+      "Keion Brooks Jr.",
+      "Yves Missi",
+      "Antonio Reeves",
+      "Elfrid Payton"
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "LAL",
+    "is_home": false,
+    "date": "2025-04-04",
+    "starters": [
+      "Keion Brooks Jr.",
+      "Kelly Olynyk",
+      "Yves Missi",
+      "Bruce Brown",
+      "Jose Alvarado"
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "ORL",
+    "is_home": true,
+    "date": "2025-04-03",
+    "starters": [
+      "Justin Champagnie",
+      "Marcus Smart",
+      "Alex Sarr",
+      "AJ Johnson",
+      "Bub Carrington"
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "LAC",
+    "is_home": false,
+    "date": "2025-04-02",
+    "starters": [
+      "Bruce Brown",
+      "Kelly Olynyk",
+      "Yves Missi",
+      "Antonio Reeves",
+      "Jose Alvarado"
+    ]
+  },
+  {
+    "team": "SAS",
+    "opponent": "DEN",
+    "is_home": false,
+    "date": "2025-04-02",
+    "starters": [
+      "Julian Champagnie",
+      "Harrison Barnes",
+      "Bismack Biyombo",
+      "Stephon Castle",
+      "Chris Paul"
+    ]
+  },
+  {
+    "team": "DEN",
+    "opponent": "SAS",
+    "is_home": true,
+    "date": "2025-04-02",
+    "starters": [
+      "Hunter Tyson",
+      "Zeke Nnaji",
+      "DeAndre Jordan",
+      "Russell Westbrook",
+      "Jalen Pickett"
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "CHA",
+    "is_home": false,
+    "date": "2025-03-31",
+    "starters": [
+      "Johnny Juzang",
+      "KJ Martin",
+      "Kyle Filipowski",
+      "Brice Sensabaugh",
+      "Isaiah Collier"
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "TOR",
+    "is_home": true,
+    "date": "2025-03-30",
+    "starters": [
+      "Justin Edwards",
+      "Ricky Council IV",
+      "Adem Bona",
+      "Lonnie Walker IV",
+      "Jared Butler"
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "CHA",
+    "is_home": true,
+    "date": "2025-03-30",
+    "starters": [
+      "Bruce Brown",
+      "Kelly Olynyk",
+      "Yves Missi",
+      "Antonio Reeves",
+      "Jose Alvarado"
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "GSW",
+    "is_home": true,
+    "date": "2025-03-28",
+    "starters": [
+      "Bruce Brown",
+      "Kelly Olynyk",
+      "Yves Missi",
+      "Jordan Hawkins",
+      "Jose Alvarado"
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "NOP",
+    "is_home": false,
+    "date": "2025-03-24",
+    "starters": [
+      "Justin Edwards",
+      "Chuma Okeke",
+      "Guerschon Yabusele",
+      "Ricky Council IV",
+      "Jared Butler"
+    ]
+  },
+  {
+    "team": "LAL",
+    "opponent": "MIL",
+    "is_home": true,
+    "date": "2025-03-20",
+    "starters": [
+      "Dalton Knecht",
+      "Markieff Morris",
+      "Jaxson Hayes",
+      "Jordan Goodwin",
+      "Gabe Vincent"
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "ATL",
+    "is_home": true,
+    "date": "2025-03-18",
+    "starters": [
+      "Josh Green",
+      "DaQuan Jeffries",
+      "Mark Williams",
+      "Seth Curry",
+      "Damion Baugh"
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "HOU",
+    "is_home": false,
+    "date": "2025-03-17",
+    "starters": [
+      "Ricky Council IV",
+      "Justin Edwards",
+      "Oshae Brissett",
+      "Quentin Grimes",
+      "Jared Butler"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "HOU",
+    "is_home": false,
+    "date": "2025-03-14",
+    "starters": [
+      "Naji Marshall",
+      "Kessler Edwards",
+      "Dwight Powell",
+      "Klay Thompson",
+      "Dant\u00e9 Exum"
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "IND",
+    "is_home": true,
+    "date": "2025-03-14",
+    "starters": [
+      "Ricky Council IV",
+      "Guerschon Yabusele",
+      "Adem Bona",
+      "Jeff Dowtin Jr.",
+      "Jared Butler"
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "PHI",
+    "is_home": true,
+    "date": "2025-03-12",
+    "starters": [
+      "Jared Rhoden",
+      "Colin Castleton",
+      "Jakob Poeltl",
+      "Jamison Battle",
+      "Jamal Shead"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2025-03-12",
+    "starters": [
+      "Klay Thompson",
+      "Naji Marshall",
+      "Kessler Edwards",
+      "Max Christie",
+      "Dant\u00e9 Exum"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2025-03-10",
+    "starters": [
+      "Klay Thompson",
+      "Naji Marshall",
+      "Kessler Edwards",
+      "Max Christie",
+      "Dant\u00e9 Exum"
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "PHI",
+    "is_home": false,
+    "date": "2025-03-09",
+    "starters": [
+      "Brice Sensabaugh",
+      "KJ Martin",
+      "Kyle Filipowski",
+      "Johnny Juzang",
+      "Isaiah Collier"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "PHX",
+    "is_home": true,
+    "date": "2025-03-09",
+    "starters": [
+      "Klay Thompson",
+      "Naji Marshall",
+      "Kessler Edwards",
+      "Max Christie",
+      "Brandon Williams"
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "POR",
+    "is_home": true,
+    "date": "2025-03-07",
+    "starters": [
+      "Kenrich Williams",
+      "Ousmane Dieng",
+      "Jaylin Williams",
+      "Isaiah Joe",
+      "Aaron Wiggins"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "MEM",
+    "is_home": true,
+    "date": "2025-03-07",
+    "starters": [
+      "Klay Thompson",
+      "Naji Marshall",
+      "Kessler Edwards",
+      "Max Christie",
+      "Dant\u00e9 Exum"
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "WAS",
+    "is_home": false,
+    "date": "2025-03-05",
+    "starters": [
+      "KJ Martin",
+      "Brice Sensabaugh",
+      "Kyle Filipowski",
+      "Johnny Juzang",
+      "Isaiah Collier"
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2025-03-02",
+    "starters": [
+      "KJ Martin",
+      "Johnny Juzang",
+      "Kyle Filipowski",
+      "Brice Sensabaugh",
+      "Isaiah Collier"
+    ]
+  },
+  {
+    "team": "MIN",
+    "opponent": "UTA",
+    "is_home": false,
+    "date": "2025-02-28",
+    "starters": [
+      "Terrence Shannon Jr.",
+      "Jaden McDaniels",
+      "Naz Reid",
+      "Nickeil Alexander-Walker",
+      "Mike Conley"
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "POR",
+    "is_home": true,
+    "date": "2025-02-24",
+    "starters": [
+      "Johnny Juzang",
+      "KJ Martin",
+      "Kyle Filipowski",
+      "Brice Sensabaugh",
+      "Isaiah Collier"
+    ]
+  },
+  {
+    "team": "CHI",
+    "opponent": "PHI",
+    "is_home": false,
+    "date": "2025-02-24",
+    "starters": [
+      "Lonzo Ball",
+      "Matas Buzelis",
+      "Zach Collins",
+      "Kevin Huerter",
+      "Josh Giddey"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "MIA",
+    "is_home": true,
+    "date": "2025-02-13",
+    "starters": [
+      "Max Christie",
+      "Olivier-Maxence Prosper",
+      "Kessler Edwards",
+      "Dant\u00e9 Exum",
+      "Spencer Dinwiddie"
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2025-02-12",
+    "starters": [
+      "Taurean Prince",
+      "Kyle Kuzma",
+      "Brook Lopez",
+      "Ryan Rollins",
+      "Andre Jackson Jr."
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "OKC",
+    "is_home": false,
+    "date": "2025-02-03",
+    "starters": [
+      "Andre Jackson Jr.",
+      "Taurean Prince",
+      "Chris Livingston",
+      "Ryan Rollins",
+      "AJ Green"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2025-02-02",
+    "starters": [
+      "Klay Thompson",
+      "Olivier-Maxence Prosper",
+      "Kylor Kelley",
+      "Spencer Dinwiddie",
+      "Dant\u00e9 Exum"
+    ]
+  },
+  {
+    "team": "ATL",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2025-01-27",
+    "starters": [
+      "Zaccharie Risacher",
+      "David Roddy",
+      "Onyeka Okongwu",
+      "V\u00edt Krej\u010d\u00ed",
+      "Keaton Wallace"
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "POR",
+    "is_home": true,
+    "date": "2025-01-24",
+    "starters": [
+      "Josh Green",
+      "Cody Mart-Maxence Prosper",
+      "Kessler Edwards",
+      "Dant\u00e9 Exum",
+      "Spencer Dinwiddie"
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2025-02-12",
+    "starters": [
+      "Taurean Prince",
+      "Kyle Kuzma",
+      "Brook Lopez",
+      "Ryan Rollins",
+      "Andre Jackson Jr."
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "OKC",
+    "is_home": false,
+    "date": "2025-02-03",
+    "starters": [
+      "Andre Jackson Jr.",
+      "Taurean Prince",
+      "Chris Livingston",
+      "Ryan Rollins",
+      "AJ Green"
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2025-02-02",
+    "starters": [
+      "Klay Thompson",
+      "Olivier-Maxence Prosper",
+      "Kylor Kelley",
+      "Spencer Dinwiddie",
+      "Dant\u00e9 Exum"
+    ]
+  },
+  {
+    "team": "ATL",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2025-01-27",
+    "starters": [
+      "Zaccharie Risacher",
+      "David Roddy",
+      "Onyeka Okongwu",
+      "V\u00edt Krej\u010d\u00ed",
+      "Keaton Wallace"
+    ]
+  },
+  {
+    "team": "ATL",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2025-01-27",
+    "starters": [
+      "Zaccharie Risacher",
+      "David Roddy",
+      "Onyeka Okongwu",
+      "V\u00edt Krej\u010d\u00ed",
+      "Keaton Wallace"
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "POR",
+    "is_home": true,
+    "date": "2025-01-24",
+    "starters": [
+      "Josh Green",
+      "Cody Martin",
+      "Mark Williams",
+      "Nick Smith Jr.",
+      "Vasilije Mici\u0107"
+    ]
+  },
+  {
+    "team": "BKN",
+    "opponent": "PHX",
+    "is_home": true,
+    "date": "2025-01-22",
+    "starters": [
+      "Jalen Wilson",
+      "Noah Clowney",
+      "Nic Claxton",
+      "Keon Johnson",
+      "Tyrese Martin"
+    ]
+  },
+  {
+    "team": "LAC",
+    "opponent": "BOS",
+    "is_home": true,
+    "date": "2025-01-22",
+    "starters": [
+      "Amir Coffey",
+      "Derrick Jones Jr.",
+      "Mo Bamba",
+      "Terance Mann",
+      "Kevin Porter Jr."
+    ]
+  },
+  {
+    "team": "ATL",
+    "opponent": "CHI",
+    "is_home": false,
+    "date": "2025-01-15",
+    "starters": [
+      "V\u00edt Krej\u010d\u00ed",
+      "David Roddy",
+      "Clint Capela",
+      "Dyson Daniels",
+      "Keaton Wallace"
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "OKC",
+    "is_home": true,
+    "date": "2025-01-14",
+    "starters": [
+      "Kelly Oubre Jr.",
+      "Ricky Council IV",
+      "Guerschon Yabusele",
+      "Eric Gordon",
+      "Reggie Jackson"
+    ]
+  },
+  {
+    "team": "GSW",
+    "opponent": "IND",
+    "is_home": false,
+    "date": "2025-01-10",
+    "starters": [
+      "Lindy Waters III",
+      "Kyle Anderson",
+      "Trayce Jackson-Davis",
+      "Buddy Hield",
+      "Dennis Schr\u00f6der"
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "MIN",
+    "is_home": true,
+    "date": "2025-01-09",
+    "starters": [
+      "Caleb Houstan",
+      "Tristan da Silva",
+      "Goga Bitadze",
+      "Kentavious Caldwell-Pope",
+      "Cole Anthony"
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "NYK",
+    "is_home": false,
+    "date": "2025-01-06",
+    "starters": [
+      "Tristan da Silva",
+      "Caleb Houstan",
+      "Goga Bitadze",
+      "Cole Anthony",
+      "Kentavious Caldwell-Pope"
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "UTA",
+    "is_home": true,
+    "date": "2025-01-05",
+    "starters": [
+      "Caleb Houstan",
+      "Tristan da Silva",
+      "Goga Bitadze",
+      "Kentavious Caldwell-Pope",
+      "Cole Anthony"
+    ]
+  },
+  {
+    "team": "BKN",
+    "opponent": "SAS",
+    "is_home": true,
+    "date": "2024-12-27",
+    "starters": [
+      "Jalen Wilson",
+      "Dorian Finney-Smith",
+      "Nic Claxton",
+      "Keon Johnson",
+      "Shake Milton"
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "MIA",
+    "is_home": true,
+    "date": "2024-12-21",
+    "starters": [
+      "Tristan da Silva",
+      "Wendell Carter Jr.",
+      "Goga Bitadze",
+      "Kentavious Caldwell-Pope",
+      "Anthony Black"
+    ]
+  },
+  {
+    "team": "SAS",
+    "opponent": "SAC",
+    "is_home": true,
+    "date": "2024-12-06",
+    "starters": [
+      "Julian Champagnie",
+      "Harrison Barnes",
+      "Zach Collins",
+      "Stephon Castle",
+      "Chris Paul"
+    ]
+  },
+  {
+    "team": "SAS",
+    "opponent": "UTA",
+    "is_home": true,
+    "date": "2024-11-21",
+    "starters": [
+      "Julian Champagnie",
+      "Harrison Barnes",
+      "Zach Collins",
+      "Stephon Castle",
+      "Chris Paul"
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2024-11-20",
+    "starters": [
+      "Javonte Green",
+      "Jeremiah Robinson-Earl",
+      "Yves Missi",
+      "Elfrid Payton",
+      "Brandon Boston"
+    ]
+  },
+  {
+    "team": "SAS",
+    "opponent": "OKC",
+    "is_home": true,
+    "date": "2024-11-19",
+    "starters": [
+      "Julian Champagnie",
+      "Harrison Barnes",
+      "Zach Collins",
+      "Stephon Castle",
+      "Chris Paul"
+    ]
+  },
+  {
+    "team": "SAS",
+    "opponent": "DAL",
+    "is_home": false,
+    "date": "2024-11-16",
+    "starters": [
+      "Harrison Barnes",
+      "Julian Champagnie",
+      "Zach Collins",
+      "Stephon Castle",
+      "Chris Paul"
+    ]
+  },
+  {
+    "team": "GSW",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2024-10-30",
+    "starters": [
+      "Moses Moody",
+      "Draymond Green",
+      "Trayce Jackson-Davis",
+      "Lindy Waters III",
+      "Brandin Podziemski"
+    ]
+  },
+  {
+    "team": "GSW",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2024-10-29",
+    "starters": [
+      "Moses Moody",
+      "Draymond Green",
+      "Trayce Jackson-Davis",
+      "Buddy Hield",
+      "Brandin Podziemski"
+    ]
+  }
+]

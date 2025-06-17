@@ -12,7 +12,7 @@ from collections import defaultdict
 import time
 
 gamefinder = leaguegamefinder.LeagueGameFinder(
-    season_nullable="2024-25", season_type_nullable=SeasonTypeAllStar.regular
+    season_nullable="2022-23", season_type_nullable=SeasonTypeAllStar.regular
 )
 games_raw = gamefinder.get_data_frames()[0].to_dict("records")  # list of dicts
 # print(games_raw[0])  # print first game info for debugging
@@ -21,7 +21,7 @@ game_ids = [g["GAME_ID"] for g in games_raw]
 
 
 leaders = leagueleaders.LeagueLeaders(
-    season="2024-25",
+    season="2022-23",
     season_type_all_star=SeasonTypeAllStar.regular,
     stat_category_abbreviation="PTS",  # Points per game
 )
@@ -73,7 +73,7 @@ NBA_TEAMS = {
 }
 byk = 0
 # game_ids = game_ids[::-1]
-for game_id in game_ids:  # limit for testing
+for game_id in game_ids:
     if game_info_by_id[game_id]["TEAM_ABBREVIATION"] not in NBA_TEAMS:
         continue
     if game_id in udah:
@@ -123,7 +123,8 @@ for game_id in game_ids:  # limit for testing
                         "is_home": is_home,
                         "date": game_date,
                         "starters": starters,
-                    }
+                    },
+                    end=",\n",
                 )
                 all_lineups.append(
                     {

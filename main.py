@@ -94,7 +94,13 @@ for game_id in game_ids:
         for player in players:
             if player["START_POSITION"]:  # only starters
                 team = player["TEAM_ABBREVIATION"]
-                starters_by_team.setdefault(team, []).append(player["PLAYER_NAME"])
+                starters_by_team.setdefault(team, []).append(
+                    [
+                        player["START_POSITION"],
+                        player["PLAYER_NAME"],
+                        player["PLAYER_ID"],
+                    ]
+                )
 
                 if all_players[player["PLAYER_ID"]] <= 10:
                     num[team] += 1
@@ -102,7 +108,7 @@ for game_id in game_ids:
                     num2[team] += 1
 
         for team, starters in starters_by_team.items():
-            if num[team] >= 3 and num2[team] == 5:
+            if num[team] >= 4 and num2[team] == 5:
                 game_info = game_info_by_id[game_id]
                 matchup = game_info["MATCHUP"]
                 game_date = game_info["GAME_DATE"]

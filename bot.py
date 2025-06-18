@@ -13,9 +13,9 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 SEASON_FILES = {
-    "2022-23": "data/2022-23.json",
-    "2023-24": "data/2023-24.json",
-    "2024-25": "data/2024-25.json",
+    "2022-23": "data/new-2022-23.json",
+    "2023-24": "data/new-2023-24.json",
+    "2024-25": "data/new-2024-25.json",
 }
 
 
@@ -48,17 +48,24 @@ async def randomlineup(ctx, season: str):
         await ctx.send(f"Not enough data in {season} to pick 5 lineups.")
         return
 
-    selected = random.sample(lineups, 5)
+    selected = random.sample(lineups, 1)
     message = ""
     for lineup in selected:
         team = lineup["team"]
         opponent = lineup["opponent"]
         date = lineup["date"]
-        home = "Home" if lineup["is_home"] else "Away"
-        starters = ", ".join(lineup["starters"])
-        message += (
-            f"**{team} vs {opponent}** ({home}) - {date}\nStarters: {starters}\n\n"
+        if lineup["is_home"]:
+            message += f"**{team}** vs. {opponent} on {date}\n"
+        else:
+            message += f"**{team}** @ {opponent} on {date}\n"
+        position_order = {"G": 0, "F": 1, "C": 2}
+        sorted_starters = sorted(
+            lineup["starters"], key=lambda x: position_order.get(x[0], 3)
         )
+
+        for starter in sorted_starters:
+            position, player_name, player_id = starter
+            message += f"{position}: {player_name}\n"
 
     await ctx.send(message)
 

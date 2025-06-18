@@ -1,0 +1,1025 @@
+[
+  {
+    "team": "POR",
+    "opponent": "SAC",
+    "is_home": false,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Justin Minaya",
+        1631303
+      ],
+      [
+        "F",
+        "Kris Murray",
+        1631200
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Rayan Rupert",
+        1641712
+      ],
+      [
+        "G",
+        "Dalano Banton",
+        1630625
+      ]
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "OKC",
+    "is_home": false,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Josh Green",
+        1630182
+      ],
+      [
+        "F",
+        "Olivier-Maxence Prosper",
+        1641765
+      ],
+      [
+        "C",
+        "Dwight Powell",
+        203939
+      ],
+      [
+        "G",
+        "Tim Hardaway Jr.",
+        203501
+      ],
+      [
+        "G",
+        "Jaden Hardy",
+        1630702
+      ]
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Bryce McGowens",
+        1631121
+      ],
+      [
+        "F",
+        "JT Thor",
+        1630550
+      ],
+      [
+        "C",
+        "Marques Bolden",
+        1629716
+      ],
+      [
+        "G",
+        "Tre Mann",
+        1630544
+      ],
+      [
+        "G",
+        "Vasilije Micic",
+        203995
+      ]
+    ]
+  },
+  {
+    "team": "LAC",
+    "opponent": "HOU",
+    "is_home": true,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Amir Coffey",
+        1629599
+      ],
+      [
+        "F",
+        "P.J. Tucker",
+        200782
+      ],
+      [
+        "C",
+        "Mason Plumlee",
+        203486
+      ],
+      [
+        "G",
+        "Terance Mann",
+        1629611
+      ],
+      [
+        "G",
+        "Xavier Moon",
+        1629875
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "MIA",
+    "is_home": false,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Gradey Dick",
+        1641711
+      ],
+      [
+        "F",
+        "Ochai Agbaji",
+        1630534
+      ],
+      [
+        "C",
+        "Kelly Olynyk",
+        203482
+      ],
+      [
+        "G",
+        "Gary Trent Jr.",
+        1629018
+      ],
+      [
+        "G",
+        "Javon Freeman-Liberty",
+        1631241
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "GSW",
+    "is_home": false,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Taylor Hendricks",
+        1641707
+      ],
+      [
+        "F",
+        "Luka Samanic",
+        1629677
+      ],
+      [
+        "C",
+        "Omer Yurtseven",
+        1630209
+      ],
+      [
+        "G",
+        "Keyonte George",
+        1641718
+      ],
+      [
+        "G",
+        "Johnny Juzang",
+        1630548
+      ]
+    ]
+  },
+  {
+    "team": "BOS",
+    "opponent": "WAS",
+    "is_home": true,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Jordan Walsh",
+        1641775
+      ],
+      [
+        "F",
+        "Sam Hauser",
+        1630573
+      ],
+      [
+        "C",
+        "Luke Kornet",
+        1628436
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Payton Pritchard",
+        1630202
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2024-04-14",
+    "starters": [
+      [
+        "F",
+        "Troy Brown Jr.",
+        1628972
+      ],
+      [
+        "F",
+        "Chimezie Metu",
+        1629002
+      ],
+      [
+        "C",
+        "James Wiseman",
+        1630164
+      ],
+      [
+        "G",
+        "Jaden Ivey",
+        1631093
+      ],
+      [
+        "G",
+        "Marcus Sasser",
+        1631204
+      ]
+    ]
+  },
+  {
+    "team": "BOS",
+    "opponent": "CHA",
+    "is_home": true,
+    "date": "2024-04-12",
+    "starters": [
+      [
+        "F",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "F",
+        "Sam Hauser",
+        1630573
+      ],
+      [
+        "C",
+        "Luke Kornet",
+        1628436
+      ],
+      [
+        "G",
+        "Jaden Springer",
+        1630531
+      ],
+      [
+        "G",
+        "Payton Pritchard",
+        1630202
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "DAL",
+    "is_home": false,
+    "date": "2024-04-12",
+    "starters": [
+      [
+        "F",
+        "Troy Brown Jr.",
+        1628972
+      ],
+      [
+        "F",
+        "Chimezie Metu",
+        1629002
+      ],
+      [
+        "C",
+        "James Wiseman",
+        1630164
+      ],
+      [
+        "G",
+        "Jaden Ivey",
+        1631093
+      ],
+      [
+        "G",
+        "Marcus Sasser",
+        1631204
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "LAC",
+    "is_home": false,
+    "date": "2024-04-12",
+    "starters": [
+      [
+        "F",
+        "Luka Samanic",
+        1629677
+      ],
+      [
+        "F",
+        "Taylor Hendricks",
+        1641707
+      ],
+      [
+        "C",
+        "Omer Yurtseven",
+        1630209
+      ],
+      [
+        "G",
+        "Johnny Juzang",
+        1630548
+      ],
+      [
+        "G",
+        "Keyonte George",
+        1641718
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "HOU",
+    "is_home": true,
+    "date": "2024-04-11",
+    "starters": [
+      [
+        "F",
+        "Luka Samanic",
+        1629677
+      ],
+      [
+        "F",
+        "Taylor Hendricks",
+        1641707
+      ],
+      [
+        "C",
+        "Omer Yurtseven",
+        1630209
+      ],
+      [
+        "G",
+        "Johnny Juzang",
+        1630548
+      ],
+      [
+        "G",
+        "Keyonte George",
+        1641718
+      ]
+    ]
+  },
+  {
+    "team": "LAC",
+    "opponent": "PHX",
+    "is_home": true,
+    "date": "2024-04-10",
+    "starters": [
+      [
+        "F",
+        "Amir Coffey",
+        1629599
+      ],
+      [
+        "F",
+        "P.J. Tucker",
+        200782
+      ],
+      [
+        "C",
+        "Mason Plumlee",
+        203486
+      ],
+      [
+        "G",
+        "Terance Mann",
+        1629611
+      ],
+      [
+        "G",
+        "Bones Hyland",
+        1630538
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "DEN",
+    "is_home": true,
+    "date": "2024-04-09",
+    "starters": [
+      [
+        "F",
+        "Luka Samanic",
+        1629677
+      ],
+      [
+        "F",
+        "Taylor Hendricks",
+        1641707
+      ],
+      [
+        "C",
+        "Omer Yurtseven",
+        1630209
+      ],
+      [
+        "G",
+        "Johnny Juzang",
+        1630548
+      ],
+      [
+        "G",
+        "Keyonte George",
+        1641718
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "BKN",
+    "is_home": false,
+    "date": "2024-04-06",
+    "starters": [
+      [
+        "F",
+        "Troy Brown Jr.",
+        1628972
+      ],
+      [
+        "F",
+        "Chimezie Metu",
+        1629002
+      ],
+      [
+        "C",
+        "James Wiseman",
+        1630164
+      ],
+      [
+        "G",
+        "Jaden Ivey",
+        1631093
+      ],
+      [
+        "G",
+        "Marcus Sasser",
+        1631204
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "ATL",
+    "is_home": false,
+    "date": "2024-03-27",
+    "starters": [
+      [
+        "F",
+        "Kris Murray",
+        1631200
+      ],
+      [
+        "F",
+        "Toumani Camara",
+        1641739
+      ],
+      [
+        "C",
+        "Duop Reath",
+        1641871
+      ],
+      [
+        "G",
+        "Rayan Rupert",
+        1641712
+      ],
+      [
+        "G",
+        "Scoot Henderson",
+        1630703
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "NYK",
+    "is_home": true,
+    "date": "2024-03-27",
+    "starters": [
+      [
+        "F",
+        "Gradey Dick",
+        1641711
+      ],
+      [
+        "F",
+        "Ochai Agbaji",
+        1630534
+      ],
+      [
+        "C",
+        "Kelly Olynyk",
+        203482
+      ],
+      [
+        "G",
+        "Gary Trent Jr.",
+        1629018
+      ],
+      [
+        "G",
+        "Javon Freeman-Liberty",
+        1631241
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "HOU",
+    "is_home": false,
+    "date": "2024-03-25",
+    "starters": [
+      [
+        "F",
+        "Kris Murray",
+        1631200
+      ],
+      [
+        "F",
+        "Toumani Camara",
+        1641739
+      ],
+      [
+        "C",
+        "Duop Reath",
+        1641871
+      ],
+      [
+        "G",
+        "Rayan Rupert",
+        1641712
+      ],
+      [
+        "G",
+        "Scoot Henderson",
+        1630703
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "NYK",
+    "is_home": false,
+    "date": "2024-03-25",
+    "starters": [
+      [
+        "F",
+        "Troy Brown Jr.",
+        1628972
+      ],
+      [
+        "F",
+        "Tosan Evbuomwan",
+        1641787
+      ],
+      [
+        "C",
+        "James Wiseman",
+        1630164
+      ],
+      [
+        "G",
+        "Jaden Ivey",
+        1631093
+      ],
+      [
+        "G",
+        "Marcus Sasser",
+        1631204
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "BKN",
+    "is_home": true,
+    "date": "2024-03-25",
+    "starters": [
+      [
+        "F",
+        "Gradey Dick",
+        1641711
+      ],
+      [
+        "F",
+        "Ochai Agbaji",
+        1630534
+      ],
+      [
+        "C",
+        "Kelly Olynyk",
+        203482
+      ],
+      [
+        "G",
+        "Gary Trent Jr.",
+        1629018
+      ],
+      [
+        "G",
+        "Javon Freeman-Liberty",
+        1631241
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2024-03-24",
+    "starters": [
+      [
+        "F",
+        "Troy Brown Jr.",
+        1628972
+      ],
+      [
+        "F",
+        "Chimezie Metu",
+        1629002
+      ],
+      [
+        "C",
+        "James Wiseman",
+        1630164
+      ],
+      [
+        "G",
+        "Jaden Ivey",
+        1631093
+      ],
+      [
+        "G",
+        "Marcus Sasser",
+        1631204
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "WAS",
+    "is_home": false,
+    "date": "2024-03-23",
+    "starters": [
+      [
+        "F",
+        "Gradey Dick",
+        1641711
+      ],
+      [
+        "F",
+        "Ochai Agbaji",
+        1630534
+      ],
+      [
+        "C",
+        "Kelly Olynyk",
+        203482
+      ],
+      [
+        "G",
+        "Jahmi'us Ramsey",
+        1630186
+      ],
+      [
+        "G",
+        "Gary Trent Jr.",
+        1629018
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "DEN",
+    "is_home": true,
+    "date": "2024-03-23",
+    "starters": [
+      [
+        "F",
+        "Kris Murray",
+        1631200
+      ],
+      [
+        "F",
+        "Toumani Camara",
+        1641739
+      ],
+      [
+        "C",
+        "Duop Reath",
+        1641871
+      ],
+      [
+        "G",
+        "Rayan Rupert",
+        1641712
+      ],
+      [
+        "G",
+        "Scoot Henderson",
+        1630703
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "OKC",
+    "is_home": true,
+    "date": "2024-03-22",
+    "starters": [
+      [
+        "F",
+        "Gradey Dick",
+        1641711
+      ],
+      [
+        "F",
+        "Ochai Agbaji",
+        1630534
+      ],
+      [
+        "C",
+        "Kelly Olynyk",
+        203482
+      ],
+      [
+        "G",
+        "Bruce Brown",
+        1628971
+      ],
+      [
+        "G",
+        "Javon Freeman-Liberty",
+        1631241
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "MIN",
+    "is_home": true,
+    "date": "2024-03-16",
+    "starters": [
+      [
+        "F",
+        "Brice Sensabaugh",
+        1641729
+      ],
+      [
+        "F",
+        "Taylor Hendricks",
+        1641707
+      ],
+      [
+        "C",
+        "Walker Kessler",
+        1631117
+      ],
+      [
+        "G",
+        "Kris Dunn",
+        1627739
+      ],
+      [
+        "G",
+        "Keyonte George",
+        1641718
+      ]
+    ]
+  },
+  {
+    "team": "NYK",
+    "opponent": "ATL",
+    "is_home": true,
+    "date": "2024-03-05",
+    "starters": [
+      [
+        "F",
+        "Precious Achiuwa",
+        1630173
+      ],
+      [
+        "F",
+        "Josh Hart",
+        1628404
+      ],
+      [
+        "C",
+        "Isaiah Hartenstein",
+        1628392
+      ],
+      [
+        "G",
+        "Donte DiVincenzo",
+        1628978
+      ],
+      [
+        "G",
+        "Miles McBride",
+        1630540
+      ]
+    ]
+  },
+  {
+    "team": "NYK",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2024-02-27",
+    "starters": [
+      [
+        "F",
+        "Precious Achiuwa",
+        1630173
+      ],
+      [
+        "F",
+        "Josh Hart",
+        1628404
+      ],
+      [
+        "C",
+        "Jericho Sims",
+        1630579
+      ],
+      [
+        "G",
+        "Donte DiVincenzo",
+        1628978
+      ],
+      [
+        "G",
+        "Miles McBride",
+        1630540
+      ]
+    ]
+  },
+  {
+    "team": "NYK",
+    "opponent": "DAL",
+    "is_home": true,
+    "date": "2024-02-08",
+    "starters": [
+      [
+        "F",
+        "Precious Achiuwa",
+        1630173
+      ],
+      [
+        "F",
+        "Josh Hart",
+        1628404
+      ],
+      [
+        "C",
+        "Isaiah Hartenstein",
+        1628392
+      ],
+      [
+        "G",
+        "Donte DiVincenzo",
+        1628978
+      ],
+      [
+        "G",
+        "Miles McBride",
+        1630540
+      ]
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "DEN",
+    "is_home": false,
+    "date": "2024-01-27",
+    "starters": [
+      [
+        "F",
+        "Nicolas Batum",
+        201587
+      ],
+      [
+        "F",
+        "Marcus Morris Sr.",
+        202694
+      ],
+      [
+        "C",
+        "Paul Reed",
+        1630194
+      ],
+      [
+        "G",
+        "Kelly Oubre Jr.",
+        1626162
+      ],
+      [
+        "G",
+        "Patrick Beverley",
+        201976
+      ]
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2023-12-28",
+    "starters": [
+      [
+        "F",
+        "Derrick Jones Jr.",
+        1627884
+      ],
+      [
+        "F",
+        "Grant Williams",
+        1629684
+      ],
+      [
+        "C",
+        "Dereck Lively II",
+        1641726
+      ],
+      [
+        "G",
+        "Jaden Hardy",
+        1630702
+      ],
+      [
+        "G",
+        "Dant\u00e9 Exum",
+        203957
+      ]
+    ]
+  },
+  {
+    "team": "MIA",
+    "opponent": "BKN",
+    "is_home": false,
+    "date": "2023-11-25",
+    "starters": [
+      [
+        "F",
+        "Jaime Jaquez Jr.",
+        1631170
+      ],
+      [
+        "F",
+        "Haywood Highsmith",
+        1629312
+      ],
+      [
+        "C",
+        "Thomas Bryant",
+        1628418
+      ],
+      [
+        "G",
+        "Josh Richardson",
+        1626196
+      ],
+      [
+        "G",
+        "Kyle Lowry",
+        200768
+      ]
+    ]
+  }
+]

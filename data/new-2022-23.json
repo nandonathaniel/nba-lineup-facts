@@ -1,0 +1,1520 @@
+[
+  {
+    "team": "DEN",
+    "opponent": "SAC",
+    "is_home": true,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Peyton Watson",
+        1631212
+      ],
+      [
+        "F",
+        "Vlatko Cancar",
+        1628427
+      ],
+      [
+        "C",
+        "DeAndre Jordan",
+        201599
+      ],
+      [
+        "G",
+        "Christian Braun",
+        1631128
+      ],
+      [
+        "G",
+        "Bruce Brown",
+        1628971
+      ]
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "TOR",
+    "is_home": false,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Jae Crowder",
+        203109
+      ],
+      [
+        "F",
+        "Bobby Portis",
+        1626171
+      ],
+      [
+        "C",
+        "Meyers Leonard",
+        203086
+      ],
+      [
+        "G",
+        "MarJon Beauchamp",
+        1630699
+      ],
+      [
+        "G",
+        "Jevon Carter",
+        1628975
+      ]
+    ]
+  },
+  {
+    "team": "PHX",
+    "opponent": "LAC",
+    "is_home": true,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Josh Okogie",
+        1629006
+      ],
+      [
+        "F",
+        "Ish Wainright",
+        1630688
+      ],
+      [
+        "C",
+        "Jock Landale",
+        1629111
+      ],
+      [
+        "G",
+        "Landry Shamet",
+        1629013
+      ],
+      [
+        "G",
+        "Saben Lee",
+        1630240
+      ]
+    ]
+  },
+  {
+    "team": "BOS",
+    "opponent": "ATL",
+    "is_home": true,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Sam Hauser",
+        1630573
+      ],
+      [
+        "F",
+        "Mike Muscala",
+        203488
+      ],
+      [
+        "C",
+        "Blake Griffin",
+        201933
+      ],
+      [
+        "G",
+        "Derrick White",
+        1628401
+      ],
+      [
+        "G",
+        "Payton Pritchard",
+        1630202
+      ]
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "SAS",
+    "is_home": true,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Theo Pinson",
+        1629033
+      ],
+      [
+        "F",
+        "Davis Bertans",
+        202722
+      ],
+      [
+        "C",
+        "Markieff Morris",
+        202693
+      ],
+      [
+        "G",
+        "Frank Ntilikina",
+        1628373
+      ],
+      [
+        "G",
+        "Jaden Hardy",
+        1630702
+      ]
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "HOU",
+    "is_home": true,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Corey Kispert",
+        1630557
+      ],
+      [
+        "F",
+        "Isaiah Todd",
+        1630225
+      ],
+      [
+        "C",
+        "Xavier Cooks",
+        1641645
+      ],
+      [
+        "G",
+        "Jordan Goodwin",
+        1630692
+      ],
+      [
+        "G",
+        "Johnny Davis",
+        1631098
+      ]
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "BKN",
+    "is_home": false,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Danuel House Jr.",
+        1627863
+      ],
+      [
+        "F",
+        "Jalen McDaniels",
+        1629667
+      ],
+      [
+        "C",
+        "Paul Reed",
+        1630194
+      ],
+      [
+        "G",
+        "Jaden Springer",
+        1630531
+      ],
+      [
+        "G",
+        "Shake Milton",
+        1629003
+      ]
+    ]
+  },
+  {
+    "team": "MEM",
+    "opponent": "OKC",
+    "is_home": false,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "David Roddy",
+        1631223
+      ],
+      [
+        "F",
+        "Vince Williams Jr.",
+        1631246
+      ],
+      [
+        "C",
+        "Kenneth Lofton Jr.",
+        1631254
+      ],
+      [
+        "G",
+        "Ziaire Williams",
+        1630533
+      ],
+      [
+        "G",
+        "John Konchar",
+        1629723
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "MEM",
+    "is_home": true,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Ousmane Dieng",
+        1631172
+      ],
+      [
+        "F",
+        "Jeremiah Robinson-Earl",
+        1630526
+      ],
+      [
+        "C",
+        "Olivier Sarr",
+        1630846
+      ],
+      [
+        "G",
+        "Tre Mann",
+        1630544
+      ],
+      [
+        "G",
+        "Jared Butler",
+        1630215
+      ]
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2023-04-09",
+    "starters": [
+      [
+        "F",
+        "Bryce McGowens",
+        1631121
+      ],
+      [
+        "F",
+        "JT Thor",
+        1630550
+      ],
+      [
+        "C",
+        "Mark Williams",
+        1631109
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "DEN",
+    "is_home": true,
+    "date": "2023-04-08",
+    "starters": [
+      [
+        "F",
+        "Juan Toscano-Anderson",
+        1629308
+      ],
+      [
+        "F",
+        "Luka Samanic",
+        1629677
+      ],
+      [
+        "C",
+        "Udoka Azubuike",
+        1628962
+      ],
+      [
+        "G",
+        "Ochai Agbaji",
+        1630534
+      ],
+      [
+        "G",
+        "Kris Dunn",
+        1627739
+      ]
+    ]
+  },
+  {
+    "team": "MIA",
+    "opponent": "WAS",
+    "is_home": false,
+    "date": "2023-04-07",
+    "starters": [
+      [
+        "F",
+        "Haywood Highsmith",
+        1629312
+      ],
+      [
+        "F",
+        "Duncan Robinson",
+        1629130
+      ],
+      [
+        "C",
+        "Cody Zeller",
+        203469
+      ],
+      [
+        "G",
+        "Max Strus",
+        1629622
+      ],
+      [
+        "G",
+        "Gabe Vincent",
+        1629216
+      ]
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "MIA",
+    "is_home": true,
+    "date": "2023-04-07",
+    "starters": [
+      [
+        "F",
+        "Corey Kispert",
+        1630557
+      ],
+      [
+        "F",
+        "Anthony Gill",
+        1630264
+      ],
+      [
+        "C",
+        "Daniel Gafford",
+        1629655
+      ],
+      [
+        "G",
+        "Johnny Davis",
+        1631098
+      ],
+      [
+        "G",
+        "Delon Wright",
+        1626153
+      ]
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "HOU",
+    "is_home": true,
+    "date": "2023-04-07",
+    "starters": [
+      [
+        "F",
+        "Bryce McGowens",
+        1631121
+      ],
+      [
+        "F",
+        "JT Thor",
+        1630550
+      ],
+      [
+        "C",
+        "Mark Williams",
+        1631109
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "PHX",
+    "opponent": "LAL",
+    "is_home": false,
+    "date": "2023-04-07",
+    "starters": [
+      [
+        "F",
+        "Josh Okogie",
+        1629006
+      ],
+      [
+        "F",
+        "Torrey Craig",
+        1628470
+      ],
+      [
+        "C",
+        "Bismack Biyombo",
+        202687
+      ],
+      [
+        "G",
+        "Landry Shamet",
+        1629013
+      ],
+      [
+        "G",
+        "Cameron Payne",
+        1626166
+      ]
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "ATL",
+    "is_home": false,
+    "date": "2023-04-07",
+    "starters": [
+      [
+        "F",
+        "Georges Niang",
+        1627777
+      ],
+      [
+        "F",
+        "Jalen McDaniels",
+        1629667
+      ],
+      [
+        "C",
+        "Paul Reed",
+        1630194
+      ],
+      [
+        "G",
+        "Jaden Springer",
+        1630531
+      ],
+      [
+        "G",
+        "Shake Milton",
+        1629003
+      ]
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "MEM",
+    "is_home": true,
+    "date": "2023-04-07",
+    "starters": [
+      [
+        "F",
+        "MarJon Beauchamp",
+        1630699
+      ],
+      [
+        "F",
+        "Jae Crowder",
+        203109
+      ],
+      [
+        "C",
+        "Meyers Leonard",
+        203086
+      ],
+      [
+        "G",
+        "AJ Green",
+        1631260
+      ],
+      [
+        "G",
+        "Lindell Wigginton",
+        1629623
+      ]
+    ]
+  },
+  {
+    "team": "CLE",
+    "opponent": "ORL",
+    "is_home": false,
+    "date": "2023-04-06",
+    "starters": [
+      [
+        "F",
+        "Lamar Stevens",
+        1630205
+      ],
+      [
+        "F",
+        "Dean Wade",
+        1629731
+      ],
+      [
+        "C",
+        "Robin Lopez",
+        201577
+      ],
+      [
+        "G",
+        "Cedi Osman",
+        1626224
+      ],
+      [
+        "G",
+        "Ricky Rubio",
+        201937
+      ]
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "CLE",
+    "is_home": true,
+    "date": "2023-04-06",
+    "starters": [
+      [
+        "F",
+        "Chuma Okeke",
+        1629643
+      ],
+      [
+        "F",
+        "Bol Bol",
+        1629626
+      ],
+      [
+        "C",
+        "Moritz Wagner",
+        1629021
+      ],
+      [
+        "G",
+        "Caleb Houstan",
+        1631216
+      ],
+      [
+        "G",
+        "Jalen Suggs",
+        1630591
+      ]
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "ATL",
+    "is_home": false,
+    "date": "2023-04-05",
+    "starters": [
+      [
+        "F",
+        "Corey Kispert",
+        1630557
+      ],
+      [
+        "F",
+        "Anthony Gill",
+        1630264
+      ],
+      [
+        "C",
+        "Daniel Gafford",
+        1629655
+      ],
+      [
+        "G",
+        "Johnny Davis",
+        1631098
+      ],
+      [
+        "G",
+        "Jordan Goodwin",
+        1630692
+      ]
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "MIL",
+    "is_home": true,
+    "date": "2023-04-04",
+    "starters": [
+      [
+        "F",
+        "Corey Kispert",
+        1630557
+      ],
+      [
+        "F",
+        "Anthony Gill",
+        1630264
+      ],
+      [
+        "C",
+        "Daniel Gafford",
+        1629655
+      ],
+      [
+        "G",
+        "Jordan Goodwin",
+        1630692
+      ],
+      [
+        "G",
+        "Johnny Davis",
+        1631098
+      ]
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "TOR",
+    "is_home": true,
+    "date": "2023-04-04",
+    "starters": [
+      [
+        "F",
+        "Bryce McGowens",
+        1631121
+      ],
+      [
+        "F",
+        "JT Thor",
+        1630550
+      ],
+      [
+        "C",
+        "Nick Richards",
+        1630208
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2023-04-02",
+    "starters": [
+      [
+        "F",
+        "Matisse Thybulle",
+        1629680
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Shaedon Sharpe",
+        1631101
+      ],
+      [
+        "G",
+        "Skylar Mays",
+        1630219
+      ]
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "TOR",
+    "is_home": true,
+    "date": "2023-04-02",
+    "starters": [
+      [
+        "F",
+        "Bryce McGowens",
+        1631121
+      ],
+      [
+        "F",
+        "JT Thor",
+        1630550
+      ],
+      [
+        "C",
+        "Mark Williams",
+        1631109
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "NYK",
+    "is_home": false,
+    "date": "2023-04-02",
+    "starters": [
+      [
+        "F",
+        "Deni Avdija",
+        1630166
+      ],
+      [
+        "F",
+        "Corey Kispert",
+        1630557
+      ],
+      [
+        "C",
+        "Daniel Gafford",
+        1629655
+      ],
+      [
+        "G",
+        "Johnny Davis",
+        1631098
+      ],
+      [
+        "G",
+        "Delon Wright",
+        1626153
+      ]
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "CHI",
+    "is_home": true,
+    "date": "2023-03-31",
+    "starters": [
+      [
+        "F",
+        "Bryce McGowens",
+        1631121
+      ],
+      [
+        "F",
+        "P.J. Washington",
+        1629023
+      ],
+      [
+        "C",
+        "Mark Williams",
+        1631109
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "SAC",
+    "is_home": true,
+    "date": "2023-03-31",
+    "starters": [
+      [
+        "F",
+        "Matisse Thybulle",
+        1629680
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Shaedon Sharpe",
+        1631101
+      ],
+      [
+        "G",
+        "Skylar Mays",
+        1630219
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "SAC",
+    "is_home": true,
+    "date": "2023-03-29",
+    "starters": [
+      [
+        "F",
+        "Nassir Little",
+        1629642
+      ],
+      [
+        "F",
+        "Kevin Knox II",
+        1628995
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Matisse Thybulle",
+        1629680
+      ],
+      [
+        "G",
+        "Shaedon Sharpe",
+        1631101
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2023-03-29",
+    "starters": [
+      [
+        "F",
+        "Simone Fontecchio",
+        1631323
+      ],
+      [
+        "F",
+        "Juan Toscano-Anderson",
+        1629308
+      ],
+      [
+        "C",
+        "Walker Kessler",
+        1631117
+      ],
+      [
+        "G",
+        "Ochai Agbaji",
+        1630534
+      ],
+      [
+        "G",
+        "Talen Horton-Tucker",
+        1629659
+      ]
+    ]
+  },
+  {
+    "team": "CHA",
+    "opponent": "OKC",
+    "is_home": false,
+    "date": "2023-03-28",
+    "starters": [
+      [
+        "F",
+        "Bryce McGowens",
+        1631121
+      ],
+      [
+        "F",
+        "P.J. Washington",
+        1629023
+      ],
+      [
+        "C",
+        "Nick Richards",
+        1630208
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2023-03-27",
+    "starters": [
+      [
+        "F",
+        "Matisse Thybulle",
+        1629680
+      ],
+      [
+        "F",
+        "Nassir Little",
+        1629642
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Shaedon Sharpe",
+        1631101
+      ],
+      [
+        "G",
+        "Ryan Arcidiacono",
+        1627853
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "OKC",
+    "is_home": true,
+    "date": "2023-03-26",
+    "starters": [
+      [
+        "F",
+        "Matisse Thybulle",
+        1629680
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Shaedon Sharpe",
+        1631101
+      ],
+      [
+        "G",
+        "Ryan Arcidiacono",
+        1627853
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "CHI",
+    "is_home": true,
+    "date": "2023-03-24",
+    "starters": [
+      [
+        "F",
+        "Matisse Thybulle",
+        1629680
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Shaedon Sharpe",
+        1631101
+      ],
+      [
+        "G",
+        "Ryan Arcidiacono",
+        1627853
+      ]
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2023-03-15",
+    "starters": [
+      [
+        "F",
+        "Reggie Bullock Jr.",
+        203493
+      ],
+      [
+        "F",
+        "Maxi Kleber",
+        1628467
+      ],
+      [
+        "C",
+        "Dwight Powell",
+        203939
+      ],
+      [
+        "G",
+        "Josh Green",
+        1630182
+      ],
+      [
+        "G",
+        "Jaden Hardy",
+        1630702
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "WAS",
+    "is_home": false,
+    "date": "2023-03-14",
+    "starters": [
+      [
+        "F",
+        "Rodney McGruder",
+        203585
+      ],
+      [
+        "F",
+        "Eugene Omoruyi",
+        1630647
+      ],
+      [
+        "C",
+        "James Wiseman",
+        1630164
+      ],
+      [
+        "G",
+        "Killian Hayes",
+        1630165
+      ],
+      [
+        "G",
+        "R.J. Hampton",
+        1630181
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "IND",
+    "is_home": true,
+    "date": "2023-03-13",
+    "starters": [
+      [
+        "F",
+        "Isaiah Livers",
+        1630587
+      ],
+      [
+        "F",
+        "Eugene Omoruyi",
+        1630647
+      ],
+      [
+        "C",
+        "James Wiseman",
+        1630164
+      ],
+      [
+        "G",
+        "Rodney McGruder",
+        203585
+      ],
+      [
+        "G",
+        "Killian Hayes",
+        1630165
+      ]
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "MEM",
+    "is_home": true,
+    "date": "2023-03-13",
+    "starters": [
+      [
+        "F",
+        "Tim Hardaway Jr.",
+        203501
+      ],
+      [
+        "F",
+        "Reggie Bullock Jr.",
+        203493
+      ],
+      [
+        "C",
+        "Dwight Powell",
+        203939
+      ],
+      [
+        "G",
+        "Josh Green",
+        1630182
+      ],
+      [
+        "G",
+        "Jaden Hardy",
+        1630702
+      ]
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "MEM",
+    "is_home": false,
+    "date": "2023-03-11",
+    "starters": [
+      [
+        "F",
+        "Tim Hardaway Jr.",
+        203501
+      ],
+      [
+        "F",
+        "Reggie Bullock Jr.",
+        203493
+      ],
+      [
+        "C",
+        "Dwight Powell",
+        203939
+      ],
+      [
+        "G",
+        "Josh Green",
+        1630182
+      ],
+      [
+        "G",
+        "Jaden Hardy",
+        1630702
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "SAC",
+    "is_home": false,
+    "date": "2023-02-23",
+    "starters": [
+      [
+        "F",
+        "Matisse Thybulle",
+        1629680
+      ],
+      [
+        "F",
+        "Nassir Little",
+        1629642
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Cam Reddish",
+        1629629
+      ],
+      [
+        "G",
+        "Ryan Arcidiacono",
+        1627853
+      ]
+    ]
+  },
+  {
+    "team": "BOS",
+    "opponent": "MIL",
+    "is_home": false,
+    "date": "2023-02-14",
+    "starters": [
+      [
+        "F",
+        "Grant Williams",
+        1629684
+      ],
+      [
+        "F",
+        "Mike Muscala",
+        203488
+      ],
+      [
+        "C",
+        "Blake Griffin",
+        201933
+      ],
+      [
+        "G",
+        "Sam Hauser",
+        1630573
+      ],
+      [
+        "G",
+        "Derrick White",
+        1628401
+      ]
+    ]
+  },
+  {
+    "team": "DAL",
+    "opponent": "UTA",
+    "is_home": false,
+    "date": "2023-02-06",
+    "starters": [
+      [
+        "F",
+        "Josh Green",
+        1630182
+      ],
+      [
+        "F",
+        "Reggie Bullock Jr.",
+        203493
+      ],
+      [
+        "C",
+        "Dwight Powell",
+        203939
+      ],
+      [
+        "G",
+        "Tim Hardaway Jr.",
+        203501
+      ],
+      [
+        "G",
+        "McKinley Wright IV",
+        1630593
+      ]
+    ]
+  },
+  {
+    "team": "BKN",
+    "opponent": "WAS",
+    "is_home": true,
+    "date": "2023-02-04",
+    "starters": [
+      [
+        "F",
+        "Joe Harris",
+        203925
+      ],
+      [
+        "F",
+        "Royce O'Neale",
+        1626220
+      ],
+      [
+        "C",
+        "Nic Claxton",
+        1629651
+      ],
+      [
+        "G",
+        "Seth Curry",
+        203552
+      ],
+      [
+        "G",
+        "Edmond Sumner",
+        1628410
+      ]
+    ]
+  },
+  {
+    "team": "BKN",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2023-01-17",
+    "starters": [
+      [
+        "F",
+        "Joe Harris",
+        203925
+      ],
+      [
+        "F",
+        "Royce O'Neale",
+        1626220
+      ],
+      [
+        "C",
+        "Nic Claxton",
+        1629651
+      ],
+      [
+        "G",
+        "Seth Curry",
+        203552
+      ],
+      [
+        "G",
+        "Ben Simmons",
+        1627732
+      ]
+    ]
+  },
+  {
+    "team": "LAL",
+    "opponent": "DEN",
+    "is_home": false,
+    "date": "2023-01-09",
+    "starters": [
+      [
+        "F",
+        "Max Christie",
+        1631108
+      ],
+      [
+        "F",
+        "Juan Toscano-Anderson",
+        1629308
+      ],
+      [
+        "C",
+        "Thomas Bryant",
+        1628418
+      ],
+      [
+        "G",
+        "Patrick Beverley",
+        201976
+      ],
+      [
+        "G",
+        "Dennis Schr\u00f6der",
+        203471
+      ]
+    ]
+  },
+  {
+    "team": "ATL",
+    "opponent": "MEM",
+    "is_home": false,
+    "date": "2022-12-12",
+    "starters": [
+      [
+        "F",
+        "De'Andre Hunter",
+        1629631
+      ],
+      [
+        "F",
+        "Jalen Johnson",
+        1630552
+      ],
+      [
+        "C",
+        "Onyeka Okongwu",
+        1630168
+      ],
+      [
+        "G",
+        "AJ Griffin",
+        1631100
+      ],
+      [
+        "G",
+        "Trent Forrest",
+        1630235
+      ]
+    ]
+  },
+  {
+    "team": "BKN",
+    "opponent": "IND",
+    "is_home": false,
+    "date": "2022-12-10",
+    "starters": [
+      [
+        "F",
+        "Kessler Edwards",
+        1630556
+      ],
+      [
+        "F",
+        "Markieff Morris",
+        202693
+      ],
+      [
+        "C",
+        "Day'Ron Sharpe",
+        1630549
+      ],
+      [
+        "G",
+        "Patty Mills",
+        201988
+      ],
+      [
+        "G",
+        "Edmond Sumner",
+        1628410
+      ]
+    ]
+  }
+]

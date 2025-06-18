@@ -12,7 +12,7 @@ from collections import defaultdict
 import time
 
 gamefinder = leaguegamefinder.LeagueGameFinder(
-    season_nullable="2022-23", season_type_nullable=SeasonTypeAllStar.regular
+    season_nullable="2020-21", season_type_nullable=SeasonTypeAllStar.regular
 )
 games_raw = gamefinder.get_data_frames()[0].to_dict("records")  # list of dicts
 # print(games_raw[0])  # print first game info for debugging
@@ -21,7 +21,7 @@ game_ids = [g["GAME_ID"] for g in games_raw]
 
 
 leaders = leagueleaders.LeagueLeaders(
-    season="2022-23",
+    season="2020-21",
     season_type_all_star=SeasonTypeAllStar.regular,
     stat_category_abbreviation="PTS",  # Points per game
 )

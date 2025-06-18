@@ -1,0 +1,1190 @@
+[
+  {
+    "team": "LAC",
+    "opponent": "OKC",
+    "is_home": false,
+    "date": "2021-05-16",
+    "starters": [
+      [
+        "F",
+        "Luke Kennard",
+        1628379
+      ],
+      [
+        "F",
+        "Patrick Patterson",
+        202335
+      ],
+      [
+        "C",
+        "Ivica Zubac",
+        1627826
+      ],
+      [
+        "G",
+        "Patrick Beverley",
+        201976
+      ],
+      [
+        "G",
+        "Reggie Jackson",
+        202704
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "LAC",
+    "is_home": true,
+    "date": "2021-05-16",
+    "starters": [
+      [
+        "F",
+        "Josh Hall",
+        1630221
+      ],
+      [
+        "F",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "BOS",
+    "opponent": "NYK",
+    "is_home": false,
+    "date": "2021-05-16",
+    "starters": [
+      [
+        "F",
+        "Semi Ojeleye",
+        1628400
+      ],
+      [
+        "F",
+        "Grant Williams",
+        1629684
+      ],
+      [
+        "C",
+        "Luke Kornet",
+        1628436
+      ],
+      [
+        "G",
+        "Romeo Langford",
+        1629641
+      ],
+      [
+        "G",
+        "Payton Pritchard",
+        1630202
+      ]
+    ]
+  },
+  {
+    "team": "PHX",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2021-05-16",
+    "starters": [
+      [
+        "F",
+        "Mikal Bridges",
+        1628969
+      ],
+      [
+        "F",
+        "Jalen Smith",
+        1630188
+      ],
+      [
+        "C",
+        "Dario \u0160aric",
+        203967
+      ],
+      [
+        "G",
+        "Jevon Carter",
+        1628975
+      ],
+      [
+        "G",
+        "Cameron Payne",
+        1626166
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "IND",
+    "is_home": true,
+    "date": "2021-05-16",
+    "starters": [
+      [
+        "F",
+        "Stanley Johnson",
+        1626169
+      ],
+      [
+        "F",
+        "Freddie Gillespie",
+        1630273
+      ],
+      [
+        "C",
+        "Khem Birch",
+        203920
+      ],
+      [
+        "G",
+        "DeAndre' Bembry",
+        1627761
+      ],
+      [
+        "G",
+        "Malachi Flynn",
+        1630201
+      ]
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "CHI",
+    "is_home": false,
+    "date": "2021-05-16",
+    "starters": [
+      [
+        "F",
+        "Sam Merrill",
+        1630241
+      ],
+      [
+        "F",
+        "Thanasis Antetokounmpo",
+        203648
+      ],
+      [
+        "C",
+        "Mamadi Diakite",
+        1629603
+      ],
+      [
+        "G",
+        "Pat Connaughton",
+        1626192
+      ],
+      [
+        "G",
+        "Jeff Teague",
+        201952
+      ]
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "ORL",
+    "is_home": true,
+    "date": "2021-05-16",
+    "starters": [
+      [
+        "F",
+        "Shake Milton",
+        1629003
+      ],
+      [
+        "F",
+        "Furkan Korkmaz",
+        1627788
+      ],
+      [
+        "C",
+        "Dwight Howard",
+        2730
+      ],
+      [
+        "G",
+        "George Hill",
+        201588
+      ],
+      [
+        "G",
+        "Tyrese Maxey",
+        1630178
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "DAL",
+    "is_home": false,
+    "date": "2021-05-14",
+    "starters": [
+      [
+        "F",
+        "Stanley Johnson",
+        1626169
+      ],
+      [
+        "F",
+        "Freddie Gillespie",
+        1630273
+      ],
+      [
+        "C",
+        "Khem Birch",
+        203920
+      ],
+      [
+        "G",
+        "Jalen Harris",
+        1630223
+      ],
+      [
+        "G",
+        "Malachi Flynn",
+        1630201
+      ]
+    ]
+  },
+  {
+    "team": "MEM",
+    "opponent": "SAC",
+    "is_home": true,
+    "date": "2021-05-14",
+    "starters": [
+      [
+        "F",
+        "Justise Winslow",
+        1626159
+      ],
+      [
+        "F",
+        "Killian Tillie",
+        1629681
+      ],
+      [
+        "C",
+        "Xavier Tillman",
+        1630214
+      ],
+      [
+        "G",
+        "Desmond Bane",
+        1630217
+      ],
+      [
+        "G",
+        "Tyus Jones",
+        1626145
+      ]
+    ]
+  },
+  {
+    "team": "LAC",
+    "opponent": "HOU",
+    "is_home": false,
+    "date": "2021-05-14",
+    "starters": [
+      [
+        "F",
+        "Luke Kennard",
+        1628379
+      ],
+      [
+        "F",
+        "Marcus Morris Sr.",
+        202694
+      ],
+      [
+        "C",
+        "Ivica Zubac",
+        1627826
+      ],
+      [
+        "G",
+        "Jay Scrubb",
+        1630206
+      ],
+      [
+        "G",
+        "Rajon Rondo",
+        200765
+      ]
+    ]
+  },
+  {
+    "team": "GSW",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2021-05-14",
+    "starters": [
+      [
+        "F",
+        "Jordan Poole",
+        1629673
+      ],
+      [
+        "F",
+        "Juan Toscano-Anderson",
+        1629308
+      ],
+      [
+        "C",
+        "Kevon Looney",
+        1626172
+      ],
+      [
+        "G",
+        "Kent Bazemore",
+        203145
+      ],
+      [
+        "G",
+        "Mychal Mulder",
+        1628539
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "CHI",
+    "is_home": false,
+    "date": "2021-05-13",
+    "starters": [
+      [
+        "F",
+        "Stanley Johnson",
+        1626169
+      ],
+      [
+        "F",
+        "Yuta Watanabe",
+        1629139
+      ],
+      [
+        "C",
+        "Khem Birch",
+        203920
+      ],
+      [
+        "G",
+        "Jalen Harris",
+        1630223
+      ],
+      [
+        "G",
+        "Malachi Flynn",
+        1630201
+      ]
+    ]
+  },
+  {
+    "team": "LAL",
+    "opponent": "HOU",
+    "is_home": true,
+    "date": "2021-05-12",
+    "starters": [
+      [
+        "F",
+        "Wesley Matthews",
+        202083
+      ],
+      [
+        "F",
+        "Markieff Morris",
+        202693
+      ],
+      [
+        "C",
+        "Andre Drummond",
+        203083
+      ],
+      [
+        "G",
+        "Kentavious Caldwell-Pope",
+        203484
+      ],
+      [
+        "G",
+        "Talen Horton-Tucker",
+        1629659
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "SAC",
+    "is_home": false,
+    "date": "2021-05-11",
+    "starters": [
+      [
+        "F",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "F",
+        "Darius Bazley",
+        1629647
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "G",
+        "Kenrich Williams",
+        1629026
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "CHI",
+    "is_home": true,
+    "date": "2021-05-09",
+    "starters": [
+      [
+        "F",
+        "Saddiq Bey",
+        1630180
+      ],
+      [
+        "F",
+        "Sekou Doumbouya",
+        1629635
+      ],
+      [
+        "C",
+        "Isaiah Stewart",
+        1630191
+      ],
+      [
+        "G",
+        "Frank Jackson",
+        1628402
+      ],
+      [
+        "G",
+        "Killian Hayes",
+        1630165
+      ]
+    ]
+  },
+  {
+    "team": "HOU",
+    "opponent": "UTA",
+    "is_home": false,
+    "date": "2021-05-08",
+    "starters": [
+      [
+        "F",
+        "Anthony Lamb",
+        1630237
+      ],
+      [
+        "F",
+        "Jae'Sean Tate",
+        1630256
+      ],
+      [
+        "C",
+        "KJ Martin",
+        1630231
+      ],
+      [
+        "G",
+        "DaQuan Jeffries",
+        1629610
+      ],
+      [
+        "G",
+        "D.J. Augustin",
+        201571
+      ]
+    ]
+  },
+  {
+    "team": "HOU",
+    "opponent": "MIL",
+    "is_home": false,
+    "date": "2021-05-07",
+    "starters": [
+      [
+        "F",
+        "KJ Martin",
+        1630231
+      ],
+      [
+        "F",
+        "Anthony Lamb",
+        1630237
+      ],
+      [
+        "C",
+        "Kelly Olynyk",
+        203482
+      ],
+      [
+        "G",
+        "DaQuan Jeffries",
+        1629610
+      ],
+      [
+        "G",
+        "D.J. Augustin",
+        201571
+      ]
+    ]
+  },
+  {
+    "team": "DET",
+    "opponent": "MEM",
+    "is_home": true,
+    "date": "2021-05-06",
+    "starters": [
+      [
+        "F",
+        "Saddiq Bey",
+        1630180
+      ],
+      [
+        "F",
+        "Sekou Doumbouya",
+        1629635
+      ],
+      [
+        "C",
+        "Isaiah Stewart",
+        1630191
+      ],
+      [
+        "G",
+        "Frank Jackson",
+        1628402
+      ],
+      [
+        "G",
+        "Cory Joseph",
+        202709
+      ]
+    ]
+  },
+  {
+    "team": "LAC",
+    "opponent": "MEM",
+    "is_home": true,
+    "date": "2021-04-21",
+    "starters": [
+      [
+        "F",
+        "Amir Coffey",
+        1629599
+      ],
+      [
+        "F",
+        "Marcus Morris Sr.",
+        202694
+      ],
+      [
+        "C",
+        "Ivica Zubac",
+        1627826
+      ],
+      [
+        "G",
+        "Luke Kennard",
+        1628379
+      ],
+      [
+        "G",
+        "Terance Mann",
+        1629611
+      ]
+    ]
+  },
+  {
+    "team": "LAC",
+    "opponent": "DET",
+    "is_home": false,
+    "date": "2021-04-14",
+    "starters": [
+      [
+        "F",
+        "Terance Mann",
+        1629611
+      ],
+      [
+        "F",
+        "Patrick Patterson",
+        202335
+      ],
+      [
+        "C",
+        "Ivica Zubac",
+        1627826
+      ],
+      [
+        "G",
+        "Luke Kennard",
+        1628379
+      ],
+      [
+        "G",
+        "Reggie Jackson",
+        202704
+      ]
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "CHI",
+    "is_home": false,
+    "date": "2021-04-14",
+    "starters": [
+      [
+        "F",
+        "Chuma Okeke",
+        1629643
+      ],
+      [
+        "F",
+        "James Ennis III",
+        203516
+      ],
+      [
+        "C",
+        "Wendell Carter Jr.",
+        1628976
+      ],
+      [
+        "G",
+        "Gary Harris",
+        203914
+      ],
+      [
+        "G",
+        "Michael Carter-Williams",
+        203487
+      ]
+    ]
+  },
+  {
+    "team": "CLE",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2021-04-11",
+    "starters": [
+      [
+        "F",
+        "Dean Wade",
+        1629731
+      ],
+      [
+        "F",
+        "Kevin Love",
+        201567
+      ],
+      [
+        "C",
+        "Isaiah Hartenstein",
+        1628392
+      ],
+      [
+        "G",
+        "Isaac Okoro",
+        1630171
+      ],
+      [
+        "G",
+        "Matthew Dellavedova",
+        203521
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "CLE",
+    "is_home": true,
+    "date": "2021-04-08",
+    "starters": [
+      [
+        "F",
+        "Kenrich Williams",
+        1629026
+      ],
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "CHA",
+    "is_home": true,
+    "date": "2021-04-07",
+    "starters": [
+      [
+        "F",
+        "Kenrich Williams",
+        1629026
+      ],
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "DET",
+    "is_home": true,
+    "date": "2021-04-05",
+    "starters": [
+      [
+        "F",
+        "Kenrich Williams",
+        1629026
+      ],
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "POR",
+    "is_home": false,
+    "date": "2021-04-03",
+    "starters": [
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "F",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "PHX",
+    "is_home": false,
+    "date": "2021-04-02",
+    "starters": [
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "F",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "NOP",
+    "is_home": false,
+    "date": "2021-04-01",
+    "starters": [
+      [
+        "F",
+        "James Ennis III",
+        203516
+      ],
+      [
+        "F",
+        "Chuma Okeke",
+        1629643
+      ],
+      [
+        "C",
+        "Khem Birch",
+        203920
+      ],
+      [
+        "G",
+        "Dwayne Bacon",
+        1628407
+      ],
+      [
+        "G",
+        "Chasson Randle",
+        1626184
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "TOR",
+    "is_home": true,
+    "date": "2021-03-31",
+    "starters": [
+      [
+        "F",
+        "Kenrich Williams",
+        1629026
+      ],
+      [
+        "F",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "LAC",
+    "is_home": false,
+    "date": "2021-03-30",
+    "starters": [
+      [
+        "F",
+        "James Ennis III",
+        203516
+      ],
+      [
+        "F",
+        "Chuma Okeke",
+        1629643
+      ],
+      [
+        "C",
+        "Khem Birch",
+        203920
+      ],
+      [
+        "G",
+        "Dwayne Bacon",
+        1628407
+      ],
+      [
+        "G",
+        "Michael Carter-Williams",
+        203487
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "DAL",
+    "is_home": true,
+    "date": "2021-03-29",
+    "starters": [
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "F",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "C",
+        "Moses Brown",
+        1629650
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "LAL",
+    "is_home": false,
+    "date": "2021-03-28",
+    "starters": [
+      [
+        "F",
+        "James Ennis III",
+        203516
+      ],
+      [
+        "F",
+        "Chuma Okeke",
+        1629643
+      ],
+      [
+        "C",
+        "Khem Birch",
+        203920
+      ],
+      [
+        "G",
+        "Dwayne Bacon",
+        1628407
+      ],
+      [
+        "G",
+        "Michael Carter-Williams",
+        203487
+      ]
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "NYK",
+    "is_home": true,
+    "date": "2021-03-27",
+    "starters": [
+      [
+        "F",
+        "Jordan Nwora",
+        1629670
+      ],
+      [
+        "F",
+        "Thanasis Antetokounmpo",
+        203648
+      ],
+      [
+        "C",
+        "Brook Lopez",
+        201572
+      ],
+      [
+        "G",
+        "Axel Toupane",
+        1626253
+      ],
+      [
+        "G",
+        "Sam Merrill",
+        1630241
+      ]
+    ]
+  },
+  {
+    "team": "ORL",
+    "opponent": "POR",
+    "is_home": true,
+    "date": "2021-03-26",
+    "starters": [
+      [
+        "F",
+        "James Ennis III",
+        203516
+      ],
+      [
+        "F",
+        "Chuma Okeke",
+        1629643
+      ],
+      [
+        "C",
+        "Khem Birch",
+        203920
+      ],
+      [
+        "G",
+        "Dwayne Bacon",
+        1628407
+      ],
+      [
+        "G",
+        "Chasson Randle",
+        1626184
+      ]
+    ]
+  },
+  {
+    "team": "CLE",
+    "opponent": "UTA",
+    "is_home": true,
+    "date": "2021-01-12",
+    "starters": [
+      [
+        "F",
+        "Cedi Osman",
+        1626224
+      ],
+      [
+        "F",
+        "Larry Nance Jr.",
+        1626204
+      ],
+      [
+        "C",
+        "JaVale McGee",
+        201580
+      ],
+      [
+        "G",
+        "Isaac Okoro",
+        1630171
+      ],
+      [
+        "G",
+        "Damyean Dotson",
+        1628422
+      ]
+    ]
+  },
+  {
+    "team": "PHI",
+    "opponent": "DEN",
+    "is_home": true,
+    "date": "2021-01-09",
+    "starters": [
+      [
+        "F",
+        "Dakota Mathias",
+        1629751
+      ],
+      [
+        "F",
+        "Danny Green",
+        201980
+      ],
+      [
+        "C",
+        "Dwight Howard",
+        2730
+      ],
+      [
+        "G",
+        "Isaiah Joe",
+        1630198
+      ],
+      [
+        "G",
+        "Tyrese Maxey",
+        1630178
+      ]
+    ]
+  }
+]

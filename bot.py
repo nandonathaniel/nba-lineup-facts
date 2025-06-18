@@ -13,9 +13,44 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 SEASON_FILES = {
+    "2020-21": "data/new-2020-21.json",
+    "2021-22": "data/new-2021-22.json",
     "2022-23": "data/new-2022-23.json",
     "2023-24": "data/new-2023-24.json",
     "2024-25": "data/new-2024-25.json",
+}
+
+NBA_TEAMS = {
+    "ATL": "Atlanta Hawks",
+    "BOS": "Boston Celtics",
+    "BKN": "Brooklyn Nets",
+    "CHA": "Charlotte Hornets",
+    "CHI": "Chicago Bulls",
+    "CLE": "Cleveland Cavaliers",
+    "DAL": "Dallas Mavericks",
+    "DEN": "Denver Nuggets",
+    "DET": "Detroit Pistons",
+    "GSW": "Golden State Warriors",
+    "HOU": "Houston Rockets",
+    "IND": "Indiana Pacers",
+    "LAC": "Los Angeles Clippers",
+    "LAL": "Los Angeles Lakers",
+    "MEM": "Memphis Grizzlies",
+    "MIA": "Miami Heat",
+    "MIL": "Milwaukee Bucks",
+    "MIN": "Minnesota Timberwolves",
+    "NOP": "New Orleans Pelicans",
+    "NYK": "New York Knicks",
+    "OKC": "Oklahoma City Thunder",
+    "ORL": "Orlando Magic",
+    "PHI": "Philadelphia 76ers",
+    "PHX": "Phoenix Suns",
+    "POR": "Portland Trail Blazers",
+    "SAC": "Sacramento Kings",
+    "SAS": "San Antonio Spurs",
+    "TOR": "Toronto Raptors",
+    "UTA": "Utah Jazz",
+    "WAS": "Washington Wizards",
 }
 
 
@@ -51,8 +86,8 @@ async def randomlineup(ctx, season: str):
     selected = random.sample(lineups, 1)
     message = ""
     for lineup in selected:
-        team = lineup["team"]
-        opponent = lineup["opponent"]
+        team = NBA_TEAMS[lineup["team"]]
+        opponent = NBA_TEAMS[lineup["opponent"]]
         date = lineup["date"]
         if lineup["is_home"]:
             message += f"**{team}** vs. {opponent} on {date}\n"

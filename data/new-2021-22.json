@@ -1,0 +1,1157 @@
+[
+  {
+    "team": "WAS",
+    "opponent": "CHA",
+    "is_home": false,
+    "date": "2022-04-10",
+    "starters": [
+      [
+        "F",
+        "Deni Avdija",
+        1630166
+      ],
+      [
+        "F",
+        "Rui Hachimura",
+        1629060
+      ],
+      [
+        "C",
+        "Daniel Gafford",
+        1629655
+      ],
+      [
+        "G",
+        "Corey Kispert",
+        1630557
+      ],
+      [
+        "G",
+        "Tomas Satoransky",
+        203107
+      ]
+    ]
+  },
+  {
+    "team": "CHI",
+    "opponent": "MIN",
+    "is_home": false,
+    "date": "2022-04-10",
+    "starters": [
+      [
+        "F",
+        "Javonte Green",
+        1629750
+      ],
+      [
+        "F",
+        "Patrick Williams",
+        1630172
+      ],
+      [
+        "C",
+        "Tristan Thompson",
+        202684
+      ],
+      [
+        "G",
+        "Troy Brown Jr.",
+        1628972
+      ],
+      [
+        "G",
+        "Ayo Dosunmu",
+        1630245
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "UTA",
+    "is_home": true,
+    "date": "2022-04-10",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Didi Louzada",
+        1629712
+      ],
+      [
+        "C",
+        "Reggie Perry",
+        1629617
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "LAL",
+    "opponent": "DEN",
+    "is_home": false,
+    "date": "2022-04-10",
+    "starters": [
+      [
+        "F",
+        "Austin Reaves",
+        1630559
+      ],
+      [
+        "F",
+        "Stanley Johnson",
+        1626169
+      ],
+      [
+        "C",
+        "Wenyen Gabriel",
+        1629117
+      ],
+      [
+        "G",
+        "Malik Monk",
+        1628370
+      ],
+      [
+        "G",
+        "Talen Horton-Tucker",
+        1629659
+      ]
+    ]
+  },
+  {
+    "team": "MEM",
+    "opponent": "BOS",
+    "is_home": true,
+    "date": "2022-04-10",
+    "starters": [
+      [
+        "F",
+        "Ziaire Williams",
+        1630533
+      ],
+      [
+        "F",
+        "Kyle Anderson",
+        203937
+      ],
+      [
+        "C",
+        "Xavier Tillman",
+        1630214
+      ],
+      [
+        "G",
+        "John Konchar",
+        1629723
+      ],
+      [
+        "G",
+        "De'Anthony Melton",
+        1629001
+      ]
+    ]
+  },
+  {
+    "team": "SAS",
+    "opponent": "GSW",
+    "is_home": true,
+    "date": "2022-04-09",
+    "starters": [
+      [
+        "F",
+        "Josh Richardson",
+        1626196
+      ],
+      [
+        "F",
+        "Keita Bates-Diop",
+        1628966
+      ],
+      [
+        "C",
+        "Zach Collins",
+        1628380
+      ],
+      [
+        "G",
+        "Joshua Primo",
+        1630563
+      ],
+      [
+        "G",
+        "Tre Jones",
+        1630200
+      ]
+    ]
+  },
+  {
+    "team": "LAL",
+    "opponent": "OKC",
+    "is_home": true,
+    "date": "2022-04-08",
+    "starters": [
+      [
+        "F",
+        "Austin Reaves",
+        1630559
+      ],
+      [
+        "F",
+        "Stanley Johnson",
+        1626169
+      ],
+      [
+        "C",
+        "Dwight Howard",
+        2730
+      ],
+      [
+        "G",
+        "Malik Monk",
+        1628370
+      ],
+      [
+        "G",
+        "Talen Horton-Tucker",
+        1629659
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "DAL",
+    "is_home": false,
+    "date": "2022-04-08",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Greg Brown III",
+        1630535
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "WAS",
+    "opponent": "NYK",
+    "is_home": true,
+    "date": "2022-04-08",
+    "starters": [
+      [
+        "F",
+        "Deni Avdija",
+        1630166
+      ],
+      [
+        "F",
+        "Rui Hachimura",
+        1629060
+      ],
+      [
+        "C",
+        "Daniel Gafford",
+        1629655
+      ],
+      [
+        "G",
+        "Corey Kispert",
+        1630557
+      ],
+      [
+        "G",
+        "Tomas Satoransky",
+        203107
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "NOP",
+    "is_home": false,
+    "date": "2022-04-07",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Greg Brown III",
+        1630535
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Kris Dunn",
+        1627739
+      ]
+    ]
+  },
+  {
+    "team": "LAL",
+    "opponent": "GSW",
+    "is_home": false,
+    "date": "2022-04-07",
+    "starters": [
+      [
+        "F",
+        "Austin Reaves",
+        1630559
+      ],
+      [
+        "F",
+        "Stanley Johnson",
+        1626169
+      ],
+      [
+        "C",
+        "Dwight Howard",
+        2730
+      ],
+      [
+        "G",
+        "Malik Monk",
+        1628370
+      ],
+      [
+        "G",
+        "Talen Horton-Tucker",
+        1629659
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "OKC",
+    "is_home": false,
+    "date": "2022-04-05",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Greg Brown III",
+        1630535
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Kris Dunn",
+        1627739
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2022-04-03",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Greg Brown III",
+        1630535
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "PHX",
+    "is_home": true,
+    "date": "2022-04-03",
+    "starters": [
+      [
+        "F",
+        "Aaron Wiggins",
+        1630598
+      ],
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "C",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "G",
+        "V\u00edt Krejc\u00ed",
+        1630249
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "LAC",
+    "is_home": true,
+    "date": "2022-04-01",
+    "starters": [
+      [
+        "F",
+        "Jordan Nwora",
+        1629670
+      ],
+      [
+        "F",
+        "Bobby Portis",
+        1626171
+      ],
+      [
+        "C",
+        "Serge Ibaka",
+        201586
+      ],
+      [
+        "G",
+        "Pat Connaughton",
+        1626192
+      ],
+      [
+        "G",
+        "Jevon Carter",
+        1628975
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "SAS",
+    "is_home": false,
+    "date": "2022-04-01",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Greg Brown III",
+        1630535
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "NOP",
+    "is_home": true,
+    "date": "2022-03-30",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Greg Brown III",
+        1630535
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "ATL",
+    "is_home": true,
+    "date": "2022-03-30",
+    "starters": [
+      [
+        "F",
+        "Aaron Wiggins",
+        1630598
+      ],
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "C",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "G",
+        "V\u00edt Krejc\u00ed",
+        1630249
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ]
+    ]
+  },
+  {
+    "team": "OKC",
+    "opponent": "POR",
+    "is_home": false,
+    "date": "2022-03-28",
+    "starters": [
+      [
+        "F",
+        "Aaron Wiggins",
+        1630598
+      ],
+      [
+        "F",
+        "Aleksej Pokusevski",
+        1630197
+      ],
+      [
+        "C",
+        "Isaiah Roby",
+        1629676
+      ],
+      [
+        "G",
+        "Theo Maledon",
+        1630177
+      ],
+      [
+        "G",
+        "V\u00edt Krejc\u00ed",
+        1630249
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "OKC",
+    "is_home": true,
+    "date": "2022-03-28",
+    "starters": [
+      [
+        "F",
+        "Elijah Hughes",
+        1630190
+      ],
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "HOU",
+    "is_home": true,
+    "date": "2022-03-26",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "HOU",
+    "is_home": true,
+    "date": "2022-03-25",
+    "starters": [
+      [
+        "F",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "Keon Johnson",
+        1630553
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "SAS",
+    "is_home": true,
+    "date": "2022-03-23",
+    "starters": [
+      [
+        "F",
+        "Justise Winslow",
+        1626159
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "G",
+        "Kris Dunn",
+        1627739
+      ]
+    ]
+  },
+  {
+    "team": "POR",
+    "opponent": "DET",
+    "is_home": false,
+    "date": "2022-03-21",
+    "starters": [
+      [
+        "F",
+        "Justise Winslow",
+        1626159
+      ],
+      [
+        "F",
+        "Trendon Watford",
+        1630570
+      ],
+      [
+        "C",
+        "Drew Eubanks",
+        1629234
+      ],
+      [
+        "G",
+        "CJ Elleby",
+        1629604
+      ],
+      [
+        "G",
+        "Brandon Williams",
+        1630314
+      ]
+    ]
+  },
+  {
+    "team": "IND",
+    "opponent": "ATL",
+    "is_home": false,
+    "date": "2022-02-08",
+    "starters": [
+      [
+        "F",
+        "Chris Duarte",
+        1630537
+      ],
+      [
+        "F",
+        "Torrey Craig",
+        1628470
+      ],
+      [
+        "C",
+        "Goga Bitadze",
+        1629048
+      ],
+      [
+        "G",
+        "Lance Stephenson",
+        202362
+      ],
+      [
+        "G",
+        "Keifer Sykes",
+        1626208
+      ]
+    ]
+  },
+  {
+    "team": "BKN",
+    "opponent": "BOS",
+    "is_home": true,
+    "date": "2022-02-08",
+    "starters": [
+      [
+        "F",
+        "DeAndre' Bembry",
+        1627761
+      ],
+      [
+        "F",
+        "Kessler Edwards",
+        1630556
+      ],
+      [
+        "C",
+        "Blake Griffin",
+        201933
+      ],
+      [
+        "G",
+        "Bruce Brown",
+        1628971
+      ],
+      [
+        "G",
+        "Patty Mills",
+        201988
+      ]
+    ]
+  },
+  {
+    "team": "NOP",
+    "opponent": "PHI",
+    "is_home": false,
+    "date": "2022-01-25",
+    "starters": [
+      [
+        "F",
+        "Garrett Temple",
+        202066
+      ],
+      [
+        "F",
+        "Herbert Jones",
+        1630529
+      ],
+      [
+        "C",
+        "Willy Hernangomez",
+        1626195
+      ],
+      [
+        "G",
+        "Nickeil Alexander-Walker",
+        1629638
+      ],
+      [
+        "G",
+        "Jose Alvarado",
+        1630631
+      ]
+    ]
+  },
+  {
+    "team": "UTA",
+    "opponent": "TOR",
+    "is_home": false,
+    "date": "2022-01-07",
+    "starters": [
+      [
+        "F",
+        "Elijah Hughes",
+        1630190
+      ],
+      [
+        "F",
+        "Eric Paschall",
+        1629672
+      ],
+      [
+        "C",
+        "Hassan Whiteside",
+        202355
+      ],
+      [
+        "G",
+        "Trent Forrest",
+        1630235
+      ],
+      [
+        "G",
+        "Jared Butler",
+        1630215
+      ]
+    ]
+  },
+  {
+    "team": "MIN",
+    "opponent": "NYK",
+    "is_home": true,
+    "date": "2021-12-28",
+    "starters": [
+      [
+        "F",
+        "Malik Beasley",
+        1627736
+      ],
+      [
+        "F",
+        "Jaden McDaniels",
+        1630183
+      ],
+      [
+        "C",
+        "Nathan Knight",
+        1630233
+      ],
+      [
+        "G",
+        "Patrick Beverley",
+        201976
+      ],
+      [
+        "G",
+        "Jordan McLaughlin",
+        1629162
+      ]
+    ]
+  },
+  {
+    "team": "MIN",
+    "opponent": "BOS",
+    "is_home": true,
+    "date": "2021-12-27",
+    "starters": [
+      [
+        "F",
+        "Josh Okogie",
+        1629006
+      ],
+      [
+        "F",
+        "Jaden McDaniels",
+        1630183
+      ],
+      [
+        "C",
+        "Nathan Knight",
+        1630233
+      ],
+      [
+        "G",
+        "Malik Beasley",
+        1627736
+      ],
+      [
+        "G",
+        "Jordan McLaughlin",
+        1629162
+      ]
+    ]
+  },
+  {
+    "team": "TOR",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2021-12-26",
+    "starters": [
+      [
+        "F",
+        "Yuta Watanabe",
+        1629139
+      ],
+      [
+        "F",
+        "D.J. Wilson",
+        1628391
+      ],
+      [
+        "C",
+        "Chris Boucher",
+        1628449
+      ],
+      [
+        "G",
+        "Svi Mykhailiuk",
+        1629004
+      ],
+      [
+        "G",
+        "Dalano Banton",
+        1630625
+      ]
+    ]
+  },
+  {
+    "team": "BKN",
+    "opponent": "ORL",
+    "is_home": true,
+    "date": "2021-12-18",
+    "starters": [
+      [
+        "F",
+        "David Duke Jr.",
+        1630561
+      ],
+      [
+        "F",
+        "Kessler Edwards",
+        1630556
+      ],
+      [
+        "C",
+        "Blake Griffin",
+        201933
+      ],
+      [
+        "G",
+        "Cam Thomas",
+        1630560
+      ],
+      [
+        "G",
+        "Patty Mills",
+        201988
+      ]
+    ]
+  },
+  {
+    "team": "MIL",
+    "opponent": "CLE",
+    "is_home": true,
+    "date": "2021-12-18",
+    "starters": [
+      [
+        "F",
+        "Jordan Nwora",
+        1629670
+      ],
+      [
+        "F",
+        "Sandro Mamukelashvili",
+        1630572
+      ],
+      [
+        "C",
+        "DeMarcus Cousins",
+        202326
+      ],
+      [
+        "G",
+        "Javonte Smart",
+        1630606
+      ],
+      [
+        "G",
+        "George Hill",
+        201588
+      ]
+    ]
+  },
+  {
+    "team": "GSW",
+    "opponent": "TOR",
+    "is_home": false,
+    "date": "2021-12-18",
+    "starters": [
+      [
+        "F",
+        "Juan Toscano-Anderson",
+        1629308
+      ],
+      [
+        "F",
+        "Jonathan Kuminga",
+        1630228
+      ],
+      [
+        "C",
+        "Kevon Looney",
+        1626172
+      ],
+      [
+        "G",
+        "Damion Lee",
+        1627814
+      ],
+      [
+        "G",
+        "Chris Chiozza",
+        1629185
+      ]
+    ]
+  },
+  {
+    "team": "HOU",
+    "opponent": "CLE",
+    "is_home": false,
+    "date": "2021-12-15",
+    "starters": [
+      [
+        "F",
+        "Garrison Mathews",
+        1629726
+      ],
+      [
+        "F",
+        "Jae'Sean Tate",
+        1630256
+      ],
+      [
+        "C",
+        "Daniel Theis",
+        1628464
+      ],
+      [
+        "G",
+        "Armoni Brooks",
+        1629717
+      ],
+      [
+        "G",
+        "D.J. Augustin",
+        201571
+      ]
+    ]
+  }
+]
